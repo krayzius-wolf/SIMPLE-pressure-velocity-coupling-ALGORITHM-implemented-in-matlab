@@ -1,4 +1,4 @@
-%BY-AMARTYA SV(PES1201700602)   AND  PRADYOT SAMARTHA(PES1201700601)
+%BY-AMARTYA SV
 %Q.A planar 2D nozzleis considered. The flow is steady and frictionless and
 %the density of the fluid is constant.Use the backward staggered grid with
 %n pressure nodes and (n-1) velocity nodes.The stagnation pressure is given
